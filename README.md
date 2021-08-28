@@ -1,6 +1,6 @@
 ![pacman_game](https://user-images.githubusercontent.com/61209498/131204111-5ca224fd-dcb1-4463-8696-1e7f69ef6ab0.gif)
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<p align="left"> 1<img src="https://komarev.com/ghpvc/?username=compileexception&label=Profile%20views&color=0e75b6&style=flat" alt="compileexception" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=compileexception&label=Profile%20views&color=0e75b6&style=flat" alt="compileexception" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
